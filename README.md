@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manish25-stack/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manish25-stack/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manish25-stack/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manish25-stack/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manish25-stack/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
